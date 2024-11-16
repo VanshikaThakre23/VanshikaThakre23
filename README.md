@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Technologies like NodeJs,ReactJs etc.Database using MongoDB**
 
-- 👨‍💻 All of my projects are available at (my-portfolio-pi-blond-31.vercel.app)
+- 👨‍💻 All of my projects are available at [my-portfolio-pi-blond-31.vercel.app](my-portfolio-pi-blond-31.vercel.app)
 
 - 📫 How to reach me **vanshikathakre485@gmail.com**
 
-- ⚡ Fun fact **I am funny 😁**
+- ⚡ Fun fact **I am NOT funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
