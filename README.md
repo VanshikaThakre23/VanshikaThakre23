@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikathakre23&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikathakre23" /> </p>
 
-- 🌱 I’m currently learning **Technologies like NodeJs,ReactJs etc.Database using MongoDB**
+- 🌱 I’m currently learning **Technologies like NodeJs,ReactJs etc.Database using MongoDB. Java Programming Language.**
 
 - 👨‍💻 All of my projects are available at [my-portfolio-pi-blond-31.vercel.app](my-portfolio-pi-blond-31.vercel.app)
 
